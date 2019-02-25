@@ -1,0 +1,486 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"STA",
+				"STATIC_ROOT"
+			],
+			[
+				"bt",
+				"btn"
+			],
+			[
+				"s",
+				"span\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"produ",
+				"product"
+			],
+			[
+				"pro",
+				"product_id"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"htt",
+				"http"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"P",
+				"Product"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"p",
+				"password1"
+			],
+			[
+				"USE",
+				"username"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"cen",
+				"align-content\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"AC",
+				"action\tAttr"
+			],
+			[
+				"a",
+				"accounts"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"de",
+				"detailblog"
+			],
+			[
+				"bl",
+				"blog_id"
+			],
+			[
+				"blo",
+				"blog"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"te",
+				"text-center"
+			],
+			[
+				"align",
+				"text-align\tproperty"
+			],
+			[
+				"d",
+				"diff"
+			],
+			[
+				"RE",
+				"received"
+			],
+			[
+				"b",
+				"bootstrap"
+			],
+			[
+				"_",
+				"_diff"
+			],
+			[
+				"c",
+				"cetagory"
+			],
+			[
+				"I",
+				"IntegerField"
+			],
+			[
+				"to",
+				"today"
+			],
+			[
+				"word",
+				"worddict"
+			],
+			[
+				"f",
+				"fulltext"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"date",
+				"datem2"
+			],
+			[
+				"da",
+				"datem2"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"ur",
+				"urls"
+			],
+			[
+				"num",
+				"numseven"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/robert/django/recipe-app-api/app/app/wsgi.py",
+			"settings":
+			{
+				"buffer_size": 383,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/robert/.config/sublime-text-3/Packages/A File Icon/.sublime/A File Icon.sublime-settings",
+		"/home/robert/.config/sublime-text-3/Packages/User/A File Icon.sublime-settings",
+		"/home/robert/django/recipe-app-api/app/core/apps.py",
+		"/home/robert/django/recipe-app-api/app/app/urls.py",
+		"/home/robert/django/recipe-app-api/app/app/settings.py",
+		"/home/robert/django/recipe-app-api/app/app/test.py",
+		"/home/robert/django/recipe-app-api/app/app/calc.py",
+		"/home/robert/django/recipe-app-api/app/app/wsgi.py",
+		"/home/robert/django/producthunt-project/producthunt/settings.py",
+		"/home/robert/django/portfolio-project/portfolio/settings.py",
+		"/home/robert/django/producthunt-project/products/urls.py",
+		"/home/robert/django/producthunt-project/products/models.py",
+		"/home/robert/django/producthunt-project/products/views.py",
+		"/home/robert/django/producthunt-project/products/templates/products/home.html",
+		"/home/robert/django/producthunt-project/products/templates/products/detail.html",
+		"/home/robert/django/producthunt-project/products/templates/products/create.html",
+		"/home/robert/django/producthunt-project/producthunt/templates/base.html",
+		"/home/robert/django/producthunt-project/accounts/templates/accounts/login.html",
+		"/home/robert/django/producthunt-project/producthunt/urls.py",
+		"/home/robert/django/portfolio-project/portfolio/urls.py",
+		"/home/robert/django/producthunt-project/manage.py",
+		"/home/robert/django/producthunt-project/products/admin.py",
+		"/home/robert/django/producthunt-project/accounts/admin.py",
+		"/home/robert/django/producthunt-project/accounts/views.py",
+		"/home/robert/django/producthunt-project/accounts/models.py",
+		"/home/robert/django/producthunt-project/accounts/templates/accounts/logout.html",
+		"/home/robert/django/producthunt-project/accounts/templates/accounts/signup.html",
+		"/home/robert/django/producthunt-project/accounts/urls.py",
+		"/home/robert/django/producthunt-project/requirements.txt",
+		"/home/robert/django/producthunt-project/accounts/templates/login.html",
+		"/home/robert/django/producthunt-project/accounts/templates/signup.html",
+		"/home/robert/django/producthunt-project/README.md",
+		"/home/robert/django/portfolio-project/.gitingore",
+		"/home/robert/django/portfolio-project/blog/templates/blog/detail.html",
+		"/home/robert/django/portfolio-project/blog/templates/blog/allblogs.html",
+		"/home/robert/django/portfolio-project/jobs/templates/jobs/home.html",
+		"/home/robert/django/portfolio-project/blog/models.py",
+		"/home/robert/django/portfolio-project/blog/urls.py",
+		"/home/robert/django/portfolio-project/blog/views.py",
+		"/home/robert/django/portfolio-project/jobs/models.py",
+		"/home/robert/django/myvenv/lib/python2.7/site-packages/django/contrib/auth/tests/custom_user.py",
+		"/home/robert/django/myvenv/lib/python2.7/site-packages/django/forms/fields.py",
+		"/home/robert/django/portfolio-project/jobs/views.py",
+		"/home/robert/django/portfolio-project/blog/templates/blog/home.html",
+		"/home/robert/django/portfolio-project/blog/admin.py",
+		"/home/robert/django/portfolio-project/jobs/admin.py",
+		"/home/robert/django/portfolio-project/blog/apps.py",
+		"/home/robert/django/venv-1.11.3/inventory-project/inventory/views.py",
+		"/home/robert/django/venv-1.11.3/inventory-project/inventory/models.py",
+		"/home/robert/django/venv-1.11.3/inventory-project/inventory/forms.py",
+		"/home/robert/django/venv-1.11.3/inventory-project/inventory/templates/inventory/index.html",
+		"/home/robert/django/venv-1.11.3/inventory-project/inventory/templates/inventory/detail.html",
+		"/home/robert/django/venv-1.11.3/inventory-project/inventory/templates/inventory/edit.html",
+		"/home/robert/django/venv-1.11.3/inventory-project/inventory/templates/inventory/new.html",
+		"/home/robert/django/venv-1.11.3/inventory-project/inventory/static/inventory/css/date/jquery.min.js",
+		"/home/robert/django/venv-1.11.3/inventory-project/inventory/static/inventory/css/date/bootstrap.min.css",
+		"/home/robert/django/venv-1.11.3/inventory-project/inventory/static/inventory/css/date/moment.min.js",
+		"/home/robert/django/venv-1.11.3/inventory-project/inventory/static/inventory/css/date/bootstrap.min.js",
+		"/home/robert/django/venv-1.11.3/inventory-project/inventory/static/inventory/css/bootstrap-datetimepicker-1.min.css",
+		"/home/robert/django/venv-1.11.3/inventory-project/inventory/static/inventory/css/bootstrap-datetimepicker.min.css",
+		"/home/robert/django/venv-1.11.3/inventory-project/inventory/static/inventory/css/date/bootstrap-datetimepicker.min.css",
+		"/home/robert/django/venv-1.11.3/inventory-project/inventory/templates/inventory/base.html",
+		"/home/robert/django/venv-1.11.3/inventory-project/inventory/static/inventory/css/bootstrap.css",
+		"/home/robert/django/venv-1.11.3/inventory-project/inventory/static/inventory/css/style.css",
+		"/home/robert/django/venv-1.11.3/inventory-project/inventoryms/settings.py",
+		"/home/robert/django/inventory_management_django/inventory_management/inventory_management/settings.py",
+		"/home/robert/django/inventory_management_django/inventory_management/my_app/models.py",
+		"/home/robert/django/inventory_management_django/inventory_management/my_app/views.py",
+		"/home/robert/django/inventory-system/uw_inventory_system/settings.py",
+		"/home/robert/django/wordcount-project/manage.py",
+		"/home/robert/django/inventory-system/manage.py",
+		"/home/robert/django/inventory/inventory/settings.py",
+		"/home/robert/django/inventory-project/trunk/manage.py",
+		"/home/robert/django/inventory-project/InvenTree/InvenTree/manage.py",
+		"/home/robert/django/inventory/seedyserver/urls.py",
+		"/home/robert/django/inventory-project/inventory/inventory_management/inventory_management/settings.py",
+		"/home/robert/django/wordcount-project/wordcount/settings.py",
+		"/home/robert/django/inventory-project/inventory/manage.py",
+		"/home/robert/django/portfolio-project/manage.py",
+		"/home/robert/django/inventory-project/inventory/shop/templates/registration/login.html",
+		"/home/robert/django/inventory-project/inventory/shop/views.py",
+		"/home/robert/django/inventory-project/inventory/shop/models.py",
+		"/home/robert/django/inventory-project/inventory/views.py",
+		"/home/robert/django/inventory-project/inventory/forms.py",
+		"/home/robert/django/inventory-project/inventory/templates/inventory/index.html",
+		"/home/robert/django/inventory-project/inventory/models.py",
+		"/home/robert/django/inventory-project/inventory/templates/inventory/base.html",
+		"/home/robert/django/wordcount-project/templates/about.html",
+		"/home/robert/django/wordcount-project/wordcount/urls.py",
+		"/home/robert/django/django-cheatsheet.txt",
+		"/home/robert/django/wordcount-project/templates/count.html",
+		"/home/robert/django/wordcount-project/templates/home.html",
+		"/home/robert/django/wordcount-project/wordcount/views.py",
+		"/tmp/test.py",
+		"/tmp/map.py",
+		"/home/robert/Downloads/try-except.py",
+		"/home/robert/.config/sublime-text-3/Packages/User/Python3"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/robert/django/recipe-app-api/app/app/wsgi.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 383,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/python3.sublime-build",
+	"project": "__init__.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
